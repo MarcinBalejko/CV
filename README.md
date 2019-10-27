@@ -14,7 +14,7 @@ As someone who majored in linguistics, I often like to view programming as a way
 
 - Ruby & JavaScript
 - Sinatra
-- HTML / CSS & Bootstrap
+- HTML / CSS / SASS / Bootstrap
 - Git
 - RSpec & Capybara,
 - PostgreSQL
@@ -25,10 +25,10 @@ As someone who majored in linguistics, I often like to view programming as a way
 
 |   Project    |   Description    | About      | Language        |
 |:------------:|:----------------:|:------------:|:------------:|
-|   [Chitter](https://github.com/MarcinBalejko/chitter-challenge)   | Building Twitter clone with Ruby, Sinatra and PostgreSQL. Strict TDD with RSpec and Capybara. 100% test coverage. Solo project | Simple Twitter clone  |Ruby      |
+|   [Chitter](https://github.com/MarcinBalejko/chitter-challenge)   | Building Twitter clone with Ruby, Sinatra and PostgreSQL. Strict TDD with RSpec and Capybara. 100% test coverage. Application styled with CSS / SASS. Solo project | Simple Twitter clone  |Ruby      |
 |   [Rock Paper Scissors](https://github.com/MarcinBalejko/rps-challenge)    | Building 'Rock Paper Scissors' game following strict TDD. 100% test coverage. Application deployed to Heroku. The app uses Ruby, HTML, CSS, Sinatra and Capybara technologies. Solo project | Rock Paper Scissors in your browser | Ruby  |
-|   [Bookmark Manager](https://github.com/MarcinBalejko/bookmark_manager_challenge)    | Building a web app that stores web bookmarks in a database. The app utilises Sinatra framework. Testing done using RSpec & Capybara. Application styled with CSS. Databases managed in PostgreSQL | Bookmark manager enables user to make an account and create his own bookmarks to web pages. Each bookmark can be commented, tagged and deleted by the user. Solo project | Ruby  |
-|   [Epic Battle](https://github.com/MarcinBalejko/epic_battle_challenge)    | Building a game based on received wireframes. The project uses Ruby, HTML, CSS, Sinatra and Capybara technologies. | A simple battle game for signle or two players, where each player can choose his own (Family Guy themed) character and attack the opponent using various types of attacks. Solo project   |  Ruby, JavaScript  |
+|   [Bookmark Manager](https://github.com/MarcinBalejko/bookmark_manager_challenge)    | Building a web app that stores web bookmarks in a database. The app utilises Sinatra framework. 100% test coverage. Testing done using RSpec & Capybara. Application styled with CSS / SASS. Databases managed in PostgreSQL | Bookmark manager enables user to make an account and create his own bookmarks to web pages. Each bookmark can be commented, tagged and deleted by the user. Solo project | Ruby  |
+|   [Epic Battle](https://github.com/MarcinBalejko/epic_battle_challenge)    | Building a game based on received wireframes. The project uses Ruby, HTML, CSS, SASS, Sinatra and Capybara technologies. | A simple battle game for signle or two players, where each player can choose his own (Family Guy themed) character and attack the opponent using various types of attacks. Solo project   |  Ruby, JavaScript  |
 
 -------
 
