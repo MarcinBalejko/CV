@@ -13,13 +13,15 @@ As someone who majored in linguistics, I often like to view programming as a way
 **List of tech I have recently used:**
 
 - Ruby & JavaScript
-- Ruby on Rails
-- Sinatra
+- React, Express, Ruby on Rails, Sinatra
+- Node.js
+- PostgreSQL, MongoDB
 - HTML / CSS / SASS / Bootstrap
 - Git
+- Postman
+- Axios
 - Travis
 - RSpec & Capybara,
-- PostgreSQL
 - Heroku
 
 ## Projects
@@ -29,6 +31,7 @@ As someone who majored in linguistics, I often like to view programming as a way
 |:------------:|:----------------:|:------------:|:------------:|
 |   [Chitter](https://github.com/MarcinBalejko/chitter-challenge)   | Building Twitter clone with Ruby, Sinatra and PostgreSQL. Strict TDD with RSpec and Capybara. 100% test coverage. Application styled with CSS / SASS. Solo project | Simple Twitter clone  |Ruby      |
 |   [Rock Paper Scissors](https://github.com/MarcinBalejko/rps-challenge)    | Building 'Rock Paper Scissors' game following strict TDD. 100% test coverage. Application deployed to Heroku. The app uses Ruby, HTML, CSS, Sinatra and Capybara technologies. Solo project. | Rock Paper Scissors in your browser | Ruby  |
+|   [DC Supervillains](https://github.com/MarcinBalejko/dc-supervillains)    | Using React to create a dynamic DC Supervillains wiki application. It handles the API calls to self-made REST API (https://github.com/MarcinBalejko/supervillain-rest-api). The app uses React, Javascript, Axios, HTML and CSS technologies. Solo project. | User can select supervillains from the database and learn some basic information about them. | JavaScript, React  |
 |   [Bookmark Manager](https://github.com/MarcinBalejko/bookmark_manager_challenge)    | Building a web app that stores web bookmarks in a database. The app utilises Sinatra framework. 100% test coverage. Testing done using RSpec & Capybara. Application styled with CSS / SASS. Databases managed in PostgreSQL. Solo project. | Bookmark manager enables user to make an account and create his own bookmarks to web pages. Each bookmark can be commented, tagged and deleted by the user. Solo project | Ruby  |
 |   [Rails Wiki](https://github.com/MarcinBalejko/rails-wiki)   | A wikipedia-like application created in Ruby on Rails. It uses HTML, CSS, Bootstrap, Devise and PostgreSQL technologies. | Users can create an account, sign in and post articles with images. Each user can post multiple articles. Articles appear on the main page of the application and can be viewed by anyone. The articles on the wiki can be easily removed or edited, but only by their author or by administrator. | Ruby |
 |   [To-Do List](https://github.com/MarcinBalejko/todo-list-rails)   | A to-do list application created in Ruby on Rails. It was made with Ruby on Rails, HTML, CSS and PostgreSQL technologies. It also uses Devise as a tool for creating a user authentication system. Solo project.   | Users can create an account, sign in and add items to their own to-do list. The items on the list can be easily removed and modified. | Ruby  |
