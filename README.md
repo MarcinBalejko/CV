@@ -78,20 +78,20 @@ Patience is definitely one of my strong points. Patience by the description is t
 
 ## Languages:
 
-English: Full Professional Proficiency
+**English:** Full Professional Proficiency
 
-Mandarin Chinese: Full Professional Proficiency
+**Mandarin Chinese:** Full Professional Proficiency
 
-French: Limited Working Proficiency
+**French:** Limited Working Proficiency
 
-Polish: Native
+**Polish:** Native
 
 ## Certificates:
 
-Chinese Proficiency Test: HSK (Level 6)
+- Chinese Proficiency Test: HSK (Level 6)
 
-Chinese Proficiency Test: HSKK (Advanced)
+- Chinese Proficiency Test: HSKK (Advanced)
 
-Cambridge English certificate: FCE
+- Cambridge English certificate: FCE
 
-Diploma in French Language Studies: DELF (B1)
+- Diploma in French Language Studies: DELF (B1)
