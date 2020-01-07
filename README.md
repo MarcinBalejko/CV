@@ -1,6 +1,6 @@
 # Marcin Balejko - Junior Developer looking for new challenges
 
-## Contact: [email](mailto:marcinbalejko@gmail.com) or (+48)515522649
+## Contact: marcinbalejko@gmail.com or (+48)515522649
 
 I am a disciplined, focused and hardworking individual with a great passion for programming. I became interested in technology and application development during my studies in China where I studied Mandarin Chinese. I am always willing to face any challenges with determination and commitment. In my work I pay great attention to details and always try to analyse new concepts until I get to their core. I love to learn new things and acquire skills that can be useful in various projects that I'm engaged with.
 
@@ -74,3 +74,24 @@ Patience is definitely one of my strong points. Patience by the description is t
 - Chinese studies (One-year Scholarship)
 
 --------
+
+
+## Languages:
+
+**English:** Full Professional Proficiency
+
+**Mandarin Chinese:** Full Professional Proficiency
+
+**French:** Limited Working Proficiency
+
+**Polish:** Native
+
+## Certificates:
+
+- Chinese Proficiency Test: HSK (Level 6)
+
+- Chinese Proficiency Test: HSKK (Advanced)
+
+- Cambridge English certificate: FCE
+
+- Diploma in French Language Studies: DELF (B1)
