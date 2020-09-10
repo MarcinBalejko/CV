@@ -20,7 +20,7 @@ As someone who majored in linguistics, I often like to view programming as a way
 - Webpack
 - Socket.IO
 - Axios
-- PostgreSQL, MongoDB
+- PostgreSQL, MongoDB, Firebase
 - HTML / CSS / SASS / Bootstrap
 - Git
 - Jest, RSpec & Capybara
