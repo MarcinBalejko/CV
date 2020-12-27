@@ -20,6 +20,7 @@ As someone who majored in linguistics, I often like to view programming as a way
 - Webpack
 - Socket.IO
 - Axios
+- JSON Web Token (JWT)
 - PostgreSQL, MongoDB, Firebase
 - HTML / CSS / SASS / Bootstrap
 - Git
@@ -32,7 +33,8 @@ As someone who majored in linguistics, I often like to view programming as a way
 
 |   Project    |   Description    | About      | Language        |
 |:------------:|:----------------:|:------------:|:------------:|
-|   [DC Supervillains](https://github.com/MarcinBalejko/dc-supervillains-mern)    | Using React to create a dynamic DC Supervillains wiki application. This project is a full-stack MERN (MongoDB, Express, React and Node.js) app which handles the API calls to self-made REST API. It also includes Parallax effects and CSS carousel. Solo project. | User can select supervillains from the database and learn some basic information about them. | JavaScript, React  |
+|   [BandFocus](https://github.com/MarcinBalejko/BandFocus)    | Building a small social network for musicians with MERN stack (Node.js, Express, React & MongoDB). This application additionally uses technologies such as Redux, Axios and also JSON Web Token (JWT) for authentication. | BandFocus is a social network for musicians who want to join or create a new band, and for those who are simply trying to find other creative people to collaborate with. Users will be able to create their own profiles where they would share some information about themselves, their music preferences, instrument setups, and also show a video clip of their skills to others. Moreover, each user will be able to make posts and leave comments on other people’s profiles. | JavaScript |
+|   [DC Supervillains](https://github.com/MarcinBalejko/dc-supervillains-mern)    | Using React to create a dynamic DC Supervillains wiki application. This project is a full-stack MERN (MongoDB, Express, React and Node.js) app which handles the API calls to self-made REST API. It also includes Parallax effects and CSS carousel. Solo project. | User can select supervillains from the database and learn some basic information about them. | JavaScript |
 |   [Chitter](https://github.com/MarcinBalejko/chitter-challenge)   | Building Twitter clone with Ruby, Sinatra and PostgreSQL. Strict TDD with RSpec and Capybara. 100% test coverage. Application styled with CSS / SASS. Solo project | Simple Twitter clone  |Ruby      |
 |   [TalkyTalk](https://github.com/MarcinBalejko/TalkyTalk-Chat)    | Realtime chat application with users & rooms. It uses HTML, CSS, Socket.io, Node.js & Express technologies. Application deployed to Heroku. Solo project. | A simple chat application where each user selects his nickname and joins one of the nine chat rooms available. Each of the rooms correspond to different language. After joining in, users receive greeting and notifications in corresponding language.  | JavaScript  |
 |   [Rock Paper Scissors](https://github.com/MarcinBalejko/rps-challenge)    | Building 'Rock Paper Scissors' game following strict TDD. 100% test coverage. Application deployed to Heroku. The app uses Ruby, HTML, CSS, Sinatra and Capybara technologies. Solo project. | Rock Paper Scissors in your browser | Ruby  |
